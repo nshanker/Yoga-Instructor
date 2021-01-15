@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Kavitha More
 
-You can use the [editor on GitHub](https://github.com/nshanker/yogaInstructor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a trained yoga instructor and offer in-person, yoga lessons at your house.
+I live in Panvel, Navi Mumbai and currently offer lessons to people living in 
+Panvel and Kharghar areas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am trained in the following styles of yoga:
 
-### Markdown
+- Iyengar Yoga
+- Vinyasa Flow Yoga
+- Power Yoga
+- General exercises
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+While yoga is proven to have a number of health benefits, not all yoga
+poses are suitable for everyone. Please inform me of any special health conditions that you may have.
 
-```markdown
-Syntax highlighted code block
+### Schedule
 
-# Header 1
-## Header 2
-### Header 3
+I currently give yoga training to a house in Kendriya Vihar, Kharghar from 8 am to 9 am daily and another house in Kamothe in the evening.
 
-- Bulleted
-- List
+### Preferences
 
-1. Numbered
-2. List
+I prefer to give lessons in and around Sector 11 in Kharghar, Navi Mumbai.
+I prefer to train females.
 
-**Bold** and _Italic_ and `Code` text
+### Spoken languages
 
-[Link](url) and ![Image](src)
-```
+- English
+- Hindi
+- Marathi
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Rates
 
-### Jekyll Themes
+My yoga lessons last for one hour each. I offer lessons only on weekdays.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nshanker/yogaInstructor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My first trial lesson is **FREE**. For further lessons, my rates are as follows:
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Monday-Friday (everyday): Rs. 6500 per month.
+Monday, Wednesday and Friday only: Rs 4000 per month.
+
+### Online lessons
+
+If you are interested in yoga lessons over the internet, please send
+an email to foo@bar.com
