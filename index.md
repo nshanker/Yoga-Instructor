@@ -6,10 +6,10 @@ Panvel and Kharghar areas.
 
 I am trained in the following styles of yoga:
 
-- Iyengar Yoga
-- Vinyasa Flow Yoga
-- Power Yoga
-- General exercises
+ - Iyengar Yoga
+ - Vinyasa Flow Yoga
+ - Power Yoga
+ - General exercises
 
 While yoga is proven to have a number of health benefits, not all yoga
 poses are suitable for everyone. Please inform me of any special health conditions that you may have.
@@ -25,9 +25,9 @@ I prefer to train females.
 
 ### Spoken languages
 
-- English
-- Hindi
-- Marathi
+ - English
+ - Hindi
+ - Marathi
 
 ### Rates
 
@@ -36,8 +36,8 @@ My yoga lessons last for one hour each. I offer lessons only on weekdays.
 My first trial lesson is **FREE**. For further lessons, my rates are as follows:
 
 
-Monday-Friday (everyday): Rs. 6500 per month.
-Monday, Wednesday and Friday only: Rs 4000 per month.
+ - Monday-Friday (everyday): Rs. 6500 per month.
+ - Monday, Wednesday and Friday only: Rs 4000 per month.
 
 ### Online lessons
 
