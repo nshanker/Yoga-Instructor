@@ -1,6 +1,6 @@
-## Kavitha More
+## Kavitha Bhosale
 
-I am a highly trained yoga instructor and offer in-person, yoga lessons at your house.
+I am a highly trained yoga instructor and offer in-person, yoga lessons in the convenience of your house!
 I live in Panvel, Navi Mumbai and currently offer lessons to people living in 
 Panvel and Kharghar areas.
 
@@ -16,7 +16,7 @@ poses are suitable for everyone. Please inform me of any special health conditio
 
 ### Schedule
 
-I currently give yoga training to a house in Kendriya Vihar, Kharghar from 8 am to 9 am daily and another house in Kamothe in the evening.
+I currently give yoga training in a house in Kendriya Vihar, Kharghar from 8 am to 9 am daily and another house in Kamothe in the evening.
 
 ### Preferences
 
