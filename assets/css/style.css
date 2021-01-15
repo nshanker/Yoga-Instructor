@@ -1,0 +1,7 @@
+ul li {
+  list-style: disc;
+}
+
+ul li:before {
+  content: none
+}
