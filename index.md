@@ -49,3 +49,5 @@ My first trial lesson is **FREE**. For further lessons, my rates are as follows:
 
 If you are interested in yoga lessons over the internet, please send
 an email and we can discuss it.
+
+*This page was last updated on Jan 15, 2021. Any schedule changes will be updated*.
