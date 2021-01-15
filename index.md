@@ -39,7 +39,13 @@ My first trial lesson is **FREE**. For further lessons, my rates are as follows:
 * Monday-Friday (everyday): Rs. 6500 per month.
 * Monday, Wednesday and Friday only: Rs 4000 per month.
 
+### Contact Me
+
+Email: kavita31bhosale@gmail.com
+Phone: +91 7977936641
+Whatsapp: +91 7977936641
+
 ### Online lessons
 
 If you are interested in yoga lessons over the internet, please send
-an email to foo@bar.com
+an email and we can discuss it.
