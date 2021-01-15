@@ -1,6 +1,6 @@
-## Kavitha More1
+## Kavitha More
 
-I am a trained yoga instructor and offer in-person, yoga lessons at your house.
+I am a highly trained yoga instructor and offer in-person, yoga lessons at your house.
 I live in Panvel, Navi Mumbai and currently offer lessons to people living in 
 Panvel and Kharghar areas.
 
