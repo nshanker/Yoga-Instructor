@@ -21,7 +21,7 @@ I currently give yoga training in a house in Kendriya Vihar, Kharghar from 8 am 
 ### Preferences
 
 I prefer to give lessons in and around Kharghar and Panvel.
-I prefer to train females.
+I prefer training couples or families.
 
 ### Spoken languages
 
