@@ -20,7 +20,7 @@ I currently give yoga training in a house in Kendriya Vihar, Kharghar from 8 am 
 
 ### Preferences
 
-I prefer to give lessons in and around Sector 11 in Kharghar, Navi Mumbai.
+I prefer to give lessons in and around Kharghar and Panvel.
 I prefer to train females.
 
 ### Spoken languages
@@ -36,8 +36,8 @@ My yoga lessons last for one hour each. I offer lessons only on weekdays.
 My first trial lesson is **FREE**. For further lessons, my rates are as follows:
 
 * Monday, Wednesday and Friday only: Rs 4000 per month.
-* Monday-Friday (everyday): Rs. 6500 per month (2 people)
-* Monday-Friday (everyday): Rs. 7500 per month (3 people)
+* Monday to Friday (everyday): Rs. 6500 per month (2 people)
+* Monday to Friday (everyday): Rs. 7500 per month (3 people)
 
 ### Contact Me
 
