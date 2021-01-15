@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+  display: none;
+}
+
 ul li {
   list-style: disc;
 }
@@ -11,6 +15,3 @@ ul li:before {
   content: none
 }
 
-header {
-  display: none;
-}
